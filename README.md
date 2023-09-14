@@ -1,9 +1,3 @@
-<style>
-body {
-    background-color: #5A5A5A;
-}
-</style>
-
 # Robotic's Notebook (Luca DalCanto)
 
 Check out the team's [Github Repo](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat) for the collaboration database for our robot.
