@@ -1,4 +1,3 @@
-theme: Architect
 # Robotic's Notebook (Luca DalCanto)
 
 Check out the team's [Github Repo](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat) for the collaboration database for our robot.
