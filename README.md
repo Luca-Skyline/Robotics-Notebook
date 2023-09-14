@@ -1,8 +1,8 @@
 # Robotic's Notebook (Luca DalCanto)
 
 Current photos:
-![images/side_chassis.JPG](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/fa414729e3f74d0d5329e4f7f616793d5b98eec3/images/side_chassis.JPG =250x)
-![top chassis](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/fa414729e3f74d0d5329e4f7f616793d5b98eec3/images/top_chassis.JPG =250x)
+![images/side_chassis.JPG](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/fa414729e3f74d0d5329e4f7f616793d5b98eec3/images/side_chassis.JPG)
+![top chassis](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat/blob/fa414729e3f74d0d5329e4f7f616793d5b98eec3/images/top_chassis.JPG)
 
 Check out the team's [Github Repo](https://github.com/Luca-Skyline/Ctrl-Alt-Defeat) for the collaboration database for our robot.
 
