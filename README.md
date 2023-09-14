@@ -1,8 +1,7 @@
-%%html
 <style>
-    body {
-        background-color: #5A5A5A;
-    }
+body {
+    background-color: #5A5A5A;
+}
 </style>
 
 # Robotic's Notebook (Luca DalCanto)
