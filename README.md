@@ -1,3 +1,4 @@
+%%html
 <style>
     body {
         background-color: #5A5A5A;
